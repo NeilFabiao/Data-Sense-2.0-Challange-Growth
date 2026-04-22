@@ -2,9 +2,9 @@
 
 Este projeto foi desenvolvido como parte do desafio **Moz Devs DataWave 2.0**. A aplicação é um Dashboard Estratégico que utiliza Ciência de Dados e Machine Learning para identificar o "Perfil Golden" de clientes da **MozBikes**, transformando dados brutos em recomendações acionáveis para marketing e vendas.
 
-📝 **Original Demo:** [Open the app](https://data-sense-group.streamlit.app)
+📝 **Original Demo:** [Open the 1st Demo](https://data-sense-group.streamlit.app)
 
-📝 **Original Github:** [Open the app](https://github.com/NeilFabiao/Data-Sense-2.0-Challenge)
+📝 **Original Github:** [Open the Github](https://github.com/NeilFabiao/Data-Sense-2.0-Challenge)
 
 📝 **Live Demo:** [Open the app](https://data-sense-group.streamlit.app)
 
