@@ -2,6 +2,13 @@
 
 Este projeto foi desenvolvido como parte do desafio **Moz Devs DataWave 2.0**. A aplicação é um Dashboard Estratégico que utiliza Ciência de Dados e Machine Learning para identificar o "Perfil Golden" de clientes da **MozBikes**, transformando dados brutos em recomendações acionáveis para marketing e vendas.
 
+📝 **Original Demo:** [Open the app](https://data-sense-group.streamlit.app)
+
+📝 **Original Github:** [Open the app](https://github.com/NeilFabiao/Data-Sense-2.0-Challenge)
+
+📝 **Live Demo:** [Open the app](https://data-sense-group.streamlit.app)
+
+
 ## 🎯 O Desafio: A Busca pelo Perfil Ideal
 
 O objetivo central foi responder à pergunta: **"Qual é o perfil de cliente com maior probabilidade de comprar uma bicicleta?"**
@@ -57,3 +64,16 @@ O desenvolvimento deste dashboard seguiu os pilares de maturidade de dados discu
 ---
 **Desenvolvido como parte do ecossistema Moz Devs.**
 *"O simples que dá resposta ganha do complexo que confunde."*
+
+
+### Who do I talk to? ###
+
+* Repo owner Neil Fabião -> @neilfabiao ✌🏾
+
+![](https://komarev.com/ghpvc/?username=mozdevsfinalupgrade&color=blue)
+
+### 🙌 Agradecimentos
+
+Thank you to **Moz Devs** for this fun experience, and to the amazing team which I had the pleasure to present the solution.
+
+
