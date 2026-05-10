@@ -65,15 +65,27 @@ O desenvolvimento deste dashboard seguiu os pilares de maturidade de dados discu
 **Desenvolvido como parte do ecossistema Moz Devs.**
 *"O simples que dá resposta ganha do complexo que confunde."*
 
+### 🙌 Agradecimentos
+
+Thank you to **Moz Devs** for this fun experience, and to the amazing team which I had the pleasure to present the solution :
+
+**DS Group ✅ **
+1. Inácio  
+2. Jorge  
+3. Neil  
+4. Nicoleta  
+5. Harson  
+6. Luther  
+7. Ernesto  
+8. Neyde  
+9. Benjamim  
+10. Isidro 
 
 ### Who do I talk to? ###
 
 * Repo owner Neil Fabião -> @neilfabiao ✌🏾
 
 ![](https://komarev.com/ghpvc/?username=mozdevsfinalupgrade&color=blue)
-
-### 🙌 Agradecimentos
-
-Thank you to **Moz Devs** for this fun experience, and to the amazing team which I had the pleasure to present the solution.
+ 
 
 
