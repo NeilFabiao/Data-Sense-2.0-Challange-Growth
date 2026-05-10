@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte do desafio **Moz Devs DataWave 2.0**. A
 
 📝 **Original Github:** [Open the Github](https://github.com/NeilFabiao/Data-Sense-2.0-Challenge)
 
-📝 **Live Demo:** [Open the Improved Solution]((https://data-sense-20-challange-growth.streamlit.app))
+📝 **Live Demo:** [Open the Improved Solution](https://github.com/NeilFabiao/Data-Sense-2.0-Challenge)
 
 
 ## 🎯 O Desafio: A Busca pelo Perfil Ideal
